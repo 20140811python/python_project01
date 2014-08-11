@@ -1,0 +1,11 @@
+nihao ,my first use vi view text ,pull commitdaifi
+;wq
+:wq:wq
+:wq;wq
+:wq!
+:wq
+;
+exitzz:
+zz:
+ZZ:
+
